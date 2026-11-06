@@ -226,18 +226,8 @@ hash = "573acf7bca6da7a522178c3f3e8a1739a4cf74015c05552cb878b06281c34455"
 metafile = true
 
 [[files]]
-file = "mods/bisecthosting-server-integration-menu-neoforge.pw.toml"
-hash = "e3d12b69f218240aff7e92b97d5d47a08c154259adacd70352f4c05c3ede151d"
-metafile = true
-
-[[files]]
 file = "mods/blended-compat.pw.toml"
 hash = "8e1f17dcb40352d1604d521736734f40b10b58629cd063af5b244831ac28039a"
-metafile = true
-
-[[files]]
-file = "mods/bmc-patcher.pw.toml"
-hash = "081302963ea795a69e825f269dc42e64dad156499a68b4296f7f9d6c5a851923"
 metafile = true
 
 [[files]]
@@ -603,11 +593,6 @@ metafile = true
 [[files]]
 file = "mods/fancy-tab-sections.pw.toml"
 hash = "f5d173ad2b31e193cda9ba84e929de45c13a99e7007d73ba6cced3fd35a0075a"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "1aae289a9ea80026bb8fb3d4754bfa60760c794c69cf8829ae23637b55c99efc"
 metafile = true
 
 [[files]]
@@ -1093,11 +1078,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a58c1322f0d21a88b3a42627374f045fe34a0385ef6630ec516b77d73438accc"
-metafile = true
-
-[[files]]
-file = "mods/modpack-update-checker.pw.toml"
-hash = "675849cd30fa48bd0a413ad3bf605eb614a979e220bcd51faef397739471487f"
 metafile = true
 
 [[files]]
