@@ -1,0 +1,13 @@
+name = "Grave Destruction fix for \"You're in Grave Danger\" and \"L_Ender 's Cataclysm\" bosses"
+filename = "RasFix_Cataclysm_YIGD.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b7add2e16f117c17ca799beb33ed8ed79628d8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7099224
+project-id = 1363881

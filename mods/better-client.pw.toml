@@ -1,0 +1,13 @@
+name = "Better Client"
+filename = "better_client-neoforge-1.10.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db3fcad2408ae6efcc8d9a46ec8c46c361ff9d79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8256641
+project-id = 1250626
