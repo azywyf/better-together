@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/almanac-lib.pw.toml"
-hash = "9e414657b3a5e60c99e241c58c33cd1e6444780d29aa64c5f897ce1aaf24a00d"
+hash = "a812037d5eabf889bdf7d7ef8ea09b681f999e98a076977a2535beaf485f3962"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "77b5a2e14b797135caeda26af300874fed5faaa61078da6907fbb23fad809a84"
+hash = "fb50214cc54e3b70a0a80f9703e98b469e4960954ab4b33b4e60c20feb0ba946"
 metafile = true
 
 [[files]]
@@ -491,13 +491,13 @@ hash = "b8d811d3a769be2deb8ad03a06e7daf6926f24a412fb00b1e2564cb8e6eb060c"
 metafile = true
 
 [[files]]
-file = "mods/colorwheel.pw.toml"
-hash = "aeaf3e980a790f22c302dbc12869d40f6ef77cfbeec2be17d5aeacdf516fc039"
+file = "mods/comforts.pw.toml"
+hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
 
 [[files]]
-file = "mods/comforts.pw.toml"
-hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
+file = "mods/common-storage-lib.pw.toml"
+hash = "9f7ce01579bfa07cd81b9caf3222bcead5e1dd44f7f22e1b016ac91b4095144d"
 metafile = true
 
 [[files]]
@@ -946,6 +946,11 @@ hash = "fa1137faf7286f950ebf0dd28dbfb954c4c131c691c758646de589e35cb10e2e"
 metafile = true
 
 [[files]]
+file = "mods/dungeonconfig.pw.toml"
+hash = "a9629412baf0cc1aba0f90a41347daa5922174e60bde7bcb64ee6f90a40d3111"
+metafile = true
+
+[[files]]
 file = "mods/dyed-flames.pw.toml"
 hash = "934815ee8a4c3935f7992f32c68afc3c93952eebf9e48858e1957eb980031a87"
 metafile = true
@@ -1086,6 +1091,11 @@ hash = "6db18524df8bb5c33851f5e5d9f3484d579629bf8906345d8257fd0cf8ba81fe"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "5217d19d5e1dae955325bae63afbd9c66ba930e18fbddb66e217c6b807480f22"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-oh-the-biomes-weve-gone.pw.toml"
 hash = "44030876800c6a4cb0be4f78a906db0c230dea8f60007afbbd67262f194e0751"
 metafile = true
@@ -1166,11 +1176,6 @@ hash = "1bd2394f96010b72db2678cbdd2c290ce684b9b2fb8f32f99c1fba9fa2a0e6b0"
 metafile = true
 
 [[files]]
-file = "mods/forge-cit.pw.toml"
-hash = "5115aa2453a30675b9048bf7862e3193b43fc543ba27c3ecdebc44dce7bce2e5"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "59f128a861d4a40554c1e276c1c55a80f3e8befd515f622abe95b5768b0635c6"
 metafile = true
@@ -1232,7 +1237,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "5fb287ddb204cc2460dc51984099b0010462f781d00b2d6ed2a37046accf2560"
+hash = "df64ca595f6f0f79e3a4a844fd0a887b44f5e007f5deb9ac011b5cf67b3a2127"
 metafile = true
 
 [[files]]
@@ -1487,7 +1492,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "cf4ba8e70f66ac0180f151f8c40bff209a2bf03877983a817528ab183308c966"
+hash = "c656e98a9de48e4705c747f9b8af1dfb6df859084d8491ba5c28cf2ce80feff1"
 metafile = true
 
 [[files]]
@@ -2252,7 +2257,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3b72a37ad15009e799ca01cf5446211bfe92a8bb502a78df37210a722c1186c0"
+hash = "b359f7ca216103300226ce7e9715099e8244dc60f0197625c3f522e20bce306d"
 metafile = true
 
 [[files]]
@@ -2392,7 +2397,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "117a25422ca4041f29b5ceb8ad6c6e5c6c1edb4dd40776168ad9448b3203b40f"
+hash = "3843deef9e2722fe4111e59d46c07015980f3120e10bb5a56a5818a60b5b78e8"
 metafile = true
 
 [[files]]
@@ -2841,6 +2846,11 @@ hash = "d9ea31681e64534027dd3e419df5388bdee21de205c914fac448970d15a4302f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ars-nouveau-brass-ified-create-style-anbics.pw.toml"
+hash = "6b18a1b6b0829c6c8309dac3b354c74039c499af9f5ca81ceae01983c25715f9"
+metafile = true
+
+[[files]]
 file = "resourcepacks/backpacked-recipe-fix.pw.toml"
 hash = "b488215fb03f18f681ffa900a3b919229c5f57e2871ee36a813c8e511a78263e"
 metafile = true
@@ -2873,6 +2883,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
 hash = "b813f2597b3186c64d29ac596129f49161a2457d43a211f51b5f2daedaf6bd3d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-for-refined-storage.pw.toml"
+hash = "d889148caf26ebcbb78274d82511e00bdf84bed97606ec77625b97f29930e9ad"
 metafile = true
 
 [[files]]
@@ -2923,6 +2938,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/the-rcp.pw.toml"
 hash = "393ce597e6ffb754a871b885820b5860c32524f28f2466bf28be60d22f823540"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unofficial-mandalas-gui-dark-mode-neo.pw.toml"
+hash = "c10bf8a31da0593e180176b37b10906746d669493981473fbf57855476e258cb"
 metafile = true
 
 [[files]]
