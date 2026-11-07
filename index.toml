@@ -501,11 +501,6 @@ hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
 
 [[files]]
-file = "mods/common-storage-lib.pw.toml"
-hash = "9f7ce01579bfa07cd81b9caf3222bcead5e1dd44f7f22e1b016ac91b4095144d"
-metafile = true
-
-[[files]]
 file = "mods/configurable.pw.toml"
 hash = "f63505f8b03d21eaa2d91259b2f42b5ba6e2c6136d0dd463739820109f89536f"
 metafile = true
@@ -578,11 +573,6 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "b519c68623e83afb4ada0ceed378670faa99409f7ab2d1de04baeaa597dc517a"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "efc9a3f8d4d0098687667f5ce7be29262202bcba23b0cec29811dcac1b0799fc"
 metafile = true
 
 [[files]]
@@ -2241,11 +2231,6 @@ hash = "fc1f89edc90d87b0baad7794c6f14af6cc343e6483bbd36137f28b1fe4e0e9f6"
 metafile = true
 
 [[files]]
-file = "mods/sable.pw.toml"
-hash = "f2c81cf494b7b6c1063563d7377224cf64b29e0b86bcf87bcf4da8eb79b9c800"
-metafile = true
-
-[[files]]
 file = "mods/sawmill.pw.toml"
 hash = "e2e27e5f9e3d1214ec7ab26c2de4384e45237330f0894f8d5712aa41e31c7782"
 metafile = true
@@ -2856,11 +2841,6 @@ hash = "d9ea31681e64534027dd3e419df5388bdee21de205c914fac448970d15a4302f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ars-nouveau-brass-ified-create-style-anbics.pw.toml"
-hash = "6b18a1b6b0829c6c8309dac3b354c74039c499af9f5ca81ceae01983c25715f9"
-metafile = true
-
-[[files]]
 file = "resourcepacks/backpacked-recipe-fix.pw.toml"
 hash = "b488215fb03f18f681ffa900a3b919229c5f57e2871ee36a813c8e511a78263e"
 metafile = true
@@ -2896,26 +2876,6 @@ hash = "b813f2597b3186c64d29ac596129f49161a2457d43a211f51b5f2daedaf6bd3d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-lootr.pw.toml"
-hash = "5736ae114ce1c28bf4b03cf8228277758c08be8bbb2caa7d0977c9b1020603bc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "6d6b7da245ca52c3dcfa20907de5934af51634f07319c3072b26a7f9971e1738"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-storages.pw.toml"
-hash = "4aa679c0f51fd71c1cb353cbc948962f4d53184a83f8db57eb2b893d94492372"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-style-for-refined-storage.pw.toml"
-hash = "d889148caf26ebcbb78274d82511e00bdf84bed97606ec77625b97f29930e9ad"
-metafile = true
-
-[[files]]
 file = "resourcepacks/enchantment-descriptions-compat.pw.toml"
 hash = "9f8064599589dc520329e8ea799c0edcb8ea85df1112959c471a679daf3b7318"
 metafile = true
@@ -2946,23 +2906,8 @@ hash = "43a2c0a503b7e2962f5d101271d661108e8b947b8f2bcd4bc817e400664c7583"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mandalas-gui-vanilla-crosshair.pw.toml"
-hash = "8e8dff21678f19eda9c86a9c26c0543ccb85780b35c488e8ad896a8ad9e43d5c"
-metafile = true
-
-[[files]]
 file = "resourcepacks/modded-omelet.pw.toml"
 hash = "a4225df4b770d8caec5888f5586ff73b5da7f88ea1c52a1842b99ea5b6389af3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/re-imagine-tom-simple-storage.pw.toml"
-hash = "3ec20249eaa9190028419c410a86c08292f84789e2ffed208957107a0203dd3e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stay-clear.pw.toml"
-hash = "f14ca61200529e542c2d3314a8112d4321276d9ee76bccb60009721ceab8455d"
 metafile = true
 
 [[files]]
@@ -2981,23 +2926,8 @@ hash = "393ce597e6ffb754a871b885820b5860c32524f28f2466bf28be60d22f823540"
 metafile = true
 
 [[files]]
-file = "resourcepacks/unofficial-mandalas-gui-dark-mode-mod.pw.toml"
-hash = "f382c5a6e583e9eed067a649c1eb678779b07a71978515b319c7c5eb469356db"
-metafile = true
-
-[[files]]
-file = "resourcepacks/unofficial-mandalas-gui-dark-mode-neo.pw.toml"
-hash = "3f39fc698860566cb4eee2d9fd96f31adf1da5cb337706205d16fea9ae2eecdb"
-metafile = true
-
-[[files]]
 file = "resourcepacks/vanilla-better-end-city.pw.toml"
 hash = "49310a1284341d1d3ed2acadaad522103ca5ec04710bdf314288573693481409"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vignette-removed.pw.toml"
-hash = "755b644e02913e36a41f217594d710160e91e0c69192e143816e60c18678a6a4"
 metafile = true
 
 [[files]]
