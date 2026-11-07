@@ -711,6 +711,11 @@ hash = "0a1c81e419dcc09714549c9b7665f97d8454dc525005d4e72cc942c810898395"
 metafile = true
 
 [[files]]
+file = "mods/create-filters-anywhere.pw.toml"
+hash = "c1676d8e9c9e8a5e098fcb4a225869969575dea825413b65cff62750b8d696f7"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "003a1ba71d0017c0e9db6ec860ac44775d6d691b7865c54db3bbb3a2af6b5e8f"
 metafile = true

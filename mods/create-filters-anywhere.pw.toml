@@ -1,0 +1,13 @@
+name = "Create: Filters Anywhere"
+filename = "createfiltersanywhere-1.21.1-2.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "936a24e2655ccdfc981a982ef4282f941d3d0d0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9072375
+project-id = 1212722
