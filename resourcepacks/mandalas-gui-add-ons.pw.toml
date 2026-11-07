@@ -1,6 +1,6 @@
 name = "Mandala's GUI - Add-Ons"
 filename = "MandalasGUI_AddOn+DarkModded_V6.5.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

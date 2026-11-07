@@ -1,6 +1,6 @@
 name = "(Unofficial) Mandala's GUI - Dark Mode Compatibility Neo"
 filename = "Mandala's GUI - Dark Mode Compat Neo 0.3 Fix.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Mandala's GUI - Dark mode"
 filename = "MandalasGUI+Dakmode_1.21.8_v2.5.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
