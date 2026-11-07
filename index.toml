@@ -2086,11 +2086,6 @@ hash = "2c257ee5f2c8a3454e423610b61d113cf736c86b7b1f5079dc8e119346a0d7a0"
 metafile = true
 
 [[files]]
-file = "mods/regions-unexplored-expansion.pw.toml"
-hash = "4acd42706d7da19e320e7d93cbb79abd8d72a6fe4e93b822b6dc1d479e495367"
-metafile = true
-
-[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "c0cbef163bb6f2183f6db52e30a6284679e37a517d8deeeb5b18a2fdd622750c"
 metafile = true
