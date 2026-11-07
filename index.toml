@@ -696,11 +696,6 @@ hash = "5e9ad200492c86a93fbb027518c352876e9b3eb362cbbeab63ae735ab6d96ee6"
 metafile = true
 
 [[files]]
-file = "mods/create-extra-gauges.pw.toml"
-hash = "80303b4d6acd243e1796b5debec43f53ee8b84b2bc84c4afe2af678680fd9cfe"
-metafile = true
-
-[[files]]
 file = "mods/create-factory-logistics.pw.toml"
 hash = "0a1c81e419dcc09714549c9b7665f97d8454dc525005d4e72cc942c810898395"
 metafile = true
@@ -863,11 +858,6 @@ metafile = true
 [[files]]
 file = "mods/delete-worlds-to-trash.pw.toml"
 hash = "884441719b45283a2b239bb24273dc9bd8f5e27637ea20019938b65be047490d"
-metafile = true
-
-[[files]]
-file = "mods/deployer.pw.toml"
-hash = "b5f93c7de7f0b296533f51c53536c5258a8896c4e30f0fc1bdc3c51fa3b60cb5"
 metafile = true
 
 [[files]]
