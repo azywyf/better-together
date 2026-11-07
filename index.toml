@@ -831,11 +831,6 @@ hash = "1dc3ed614d1be444f0ed687ab40168437cef77f25a9ebfbdd2ac250de6da3d87"
 metafile = true
 
 [[files]]
-file = "mods/daily-dad.pw.toml"
-hash = "f849dc24e126d8c4c9890cd91e4093286e6fd7d62a8ad989402eaed7d729651f"
-metafile = true
-
-[[files]]
 file = "mods/dark-window-bar.pw.toml"
 hash = "c172917eb6a9987af02852aa9d67ef86bc0c41de10bbf3322dd62241d6a83aca"
 metafile = true
@@ -2113,11 +2108,6 @@ metafile = true
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
 hash = "f5632c144898b229e06271e32bc7393f506c1e743fd84cd4300a1045e9cbc421"
-metafile = true
-
-[[files]]
-file = "mods/replication-indexer.pw.toml"
-hash = "12b14966b2e75b06e534d233c9077e55ae7b6b687f2bb985421e1f113c03945a"
 metafile = true
 
 [[files]]
