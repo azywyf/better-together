@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -243,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/autochefs-delight.pw.toml"
 hash = "6ffd3974dac599c325533619265b6d222e3243f7cd9507d78ac2ae00162498d6"
+metafile = true
+
+[[files]]
+file = "mods/autumnity.pw.toml"
+hash = "8f6479b924d94dc3a11a29cdc3dfb093ffde5b1080c549c69a43218a0608b582"
 metafile = true
 
 [[files]]
@@ -361,6 +366,11 @@ hash = "c9bddfd011a93a6ab2fc5fd9dea8ce1bf27275a6cf1ff50fe9562fdec9f2962e"
 metafile = true
 
 [[files]]
+file = "mods/book-of-dragons.pw.toml"
+hash = "d580d5294d6e76190fa197a3ecc365494d6ca16ed9aee8e2186349ed05c2d96a"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
@@ -368,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "e5c9649e2e622248382ac05979512e14e652b32fe31e592db3b4aef9fc2a9488"
+metafile = true
+
+[[files]]
+file = "mods/bundle-api.pw.toml"
+hash = "6ba13de15147a3668b8b9272807da65e081dc1516f5581ce050c4aae8c2c109f"
 metafile = true
 
 [[files]]
@@ -393,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/cataclysm-x-yungs.pw.toml"
 hash = "c70bc24b041d93887a40fe45e49ba54c65f6e76692ebc442a6a9a93c2f0637c0"
+metafile = true
+
+[[files]]
+file = "mods/caverns-and-chasms.pw.toml"
+hash = "4b7363ed836fcab7e4b4632f1b1dd57dec3bd39d93856565a6b7bfa8b3dc8825"
 metafile = true
 
 [[files]]
@@ -866,6 +886,11 @@ hash = "36899ae409d7c9bf4a5b322328f3eba6c8de4812a4f8594140a4953b05d62f88"
 metafile = true
 
 [[files]]
+file = "mods/dis-enchanting-table.pw.toml"
+hash = "d71851407e388787d67281a0564f357bd6384316fa1e4c1984ac6c549acba68d"
+metafile = true
+
+[[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
 hash = "70badf39e96140d99e37b03dd65b999e19106f24e10352758e5d043668500cd5"
 metafile = true
@@ -1041,6 +1066,11 @@ hash = "9f5e29573d64c3e33e372a2d2140335bcb1d84c3afcfc0933cad258acbd4178e"
 metafile = true
 
 [[files]]
+file = "mods/extra-spell-attributes.pw.toml"
+hash = "0364e6130ed401ec3df7707379c064e25132255eaaa1011dbcd31d5ce527f45e"
+metafile = true
+
+[[files]]
 file = "mods/extrastorage.pw.toml"
 hash = "e3242f4bfa90e5d3b102026033fcf48bc05d33a1487776aa5bb74727dc3582b8"
 metafile = true
@@ -1048,6 +1078,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "c8dc552aab96bc9ab2fcaa0ae5a240f47ae828c934f8eeb5269cfe642ff8ceb5"
+metafile = true
+
+[[files]]
+file = "mods/fabulous-furnished-java.pw.toml"
+hash = "f27cb6795ed108d1d2fe26c45b961a874cd05ee562b6d1c6a730303a62691571"
 metafile = true
 
 [[files]]
@@ -1113,6 +1148,11 @@ metafile = true
 [[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "83e60a73e109258def123fbcab5cf606857f36feca621a4c40c9d7c10b285bca"
+metafile = true
+
+[[files]]
+file = "mods/fauna-engine.pw.toml"
+hash = "979c1b364930e9a0226381b1860d4ad5eebba1a9ff94d7b42996e46500c4aaa6"
 metafile = true
 
 [[files]]
@@ -1306,6 +1346,11 @@ hash = "f493681afe9d27595b382cfbbc756ea0ab06daa106e5bd8f50b10e6e8cc1076c"
 metafile = true
 
 [[files]]
+file = "mods/hominid.pw.toml"
+hash = "ec0c5662246ec320c56d93cf353d4d348dd5e51170f95ba9426b6c22426529c5"
+metafile = true
+
+[[files]]
 file = "mods/horse-breeding-fix.pw.toml"
 hash = "b9ca1624845ddd38fe1d5de15bcf7fdda1d8f2a4b65d4a860866c210604df6be"
 metafile = true
@@ -1488,6 +1533,16 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "b51f51d76111a5142937d16d64fc59b6670cfedffd7f5757a4d471cfe5846b8b"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscope-cookery.pw.toml"
+hash = "8d41ba66e8a0bb237d7d322b55ef415d60b7b044f565820f9a6fb32ac0249219"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscope-tavern.pw.toml"
+hash = "922dd23ad46dedbc8a4d550e29c352799b894dafc03a4e9fbd17ec9f734d2b91"
 metafile = true
 
 [[files]]
@@ -1751,6 +1806,11 @@ hash = "ad352efffdd37b46fc9f0f696098c20bce9afb472eb698bb525e29e6fe2b085b"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "2ee5f4435c1ddb6cd30eea29a9dfac61b45d4fdc7c17e724b0674042118d2cbd"
+metafile = true
+
+[[files]]
 file = "mods/moogs-end-structures.pw.toml"
 hash = "d320f7c6591bce3b9e6a808db01e57a1c337422209ee53ffa1d6d84383c24bde"
 metafile = true
@@ -1996,6 +2056,11 @@ hash = "cf4f9fdb9d7cf582d1068fae6ca9bf7fe6d3f0f1dbb031627f339f73477d325c"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "bb53e2c30a71e477476f8964b9a8c5294207969659c755b5c9993bca94139385"
 metafile = true
@@ -2181,6 +2246,11 @@ hash = "909e61e9dcf8c5d4a414d624f6a7a7bf04d61350c831b9386bb4a196f33aee8e"
 metafile = true
 
 [[files]]
+file = "mods/rrtt217-s-hdr-mod.pw.toml"
+hash = "6462b997f94822f0d4dada3e12ed210f918890fd89be2200d53cd12ce64a73e2"
+metafile = true
+
+[[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "90df3fe04baefe2064d72661d9cb915b730ab918afbaa2e60d0a1363d43c2553"
 metafile = true
@@ -2188,6 +2258,11 @@ metafile = true
 [[files]]
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "fc1f89edc90d87b0baad7794c6f14af6cc343e6483bbd36137f28b1fe4e0e9f6"
+metafile = true
+
+[[files]]
+file = "mods/rune-crafting.pw.toml"
+hash = "dafc4c4162ae0f493b77c42ad065489fbcf7f690d8a2d8ea9f17392805207334"
 metafile = true
 
 [[files]]
@@ -2366,6 +2441,26 @@ hash = "39f04c55a2bd99df584fe260b0cccfcbda4bb1dfb553fb615517bf4449f4d446"
 metafile = true
 
 [[files]]
+file = "mods/spawn-mod.pw.toml"
+hash = "756f090d64feba9ed2ce3df16f87337fa9dc0d6a2cbd933e39bd30a03c600a94"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "a65e897094749b4d09013108abeef19a636a345cfcdd2918d11942bd8751cec5"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "6bed5c00c8365c2170ce3c9fa11116a07af8dfe7cb588e627cbb6e6073d2276b"
+metafile = true
+
+[[files]]
+file = "mods/spellblade-next.pw.toml"
+hash = "264f2aa10377a2d5c8261ce410da2cb803daaf8a0088a048389dc803c0c0f0ef"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
 metafile = true
@@ -2456,6 +2551,16 @@ hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
 metafile = true
 
 [[files]]
+file = "mods/sweety-archeo.pw.toml"
+hash = "3db607c41c993270e4d9c2d4df86146e24c13c73b45ad8c35373e9e891ad5f29"
+metafile = true
+
+[[files]]
+file = "mods/teallib.pw.toml"
+hash = "cf405df734343bd1443c78bba8f2982369f77afcc5cb8223158d086c516dc6db"
+metafile = true
+
+[[files]]
 file = "mods/tempad-homes.pw.toml"
 hash = "0b8f91173e19aeb13d09c49f59a8c251f0f80b32de5c5c5b2d6b37887acfb5ec"
 metafile = true
@@ -2543,6 +2648,11 @@ metafile = true
 [[files]]
 file = "mods/trenzalore.pw.toml"
 hash = "97b31515b4ea9f529c8d41770bc4e584321929b014bd5ab460905114de17492b"
+metafile = true
+
+[[files]]
+file = "mods/twilight-forest-final-boss-remake.pw.toml"
+hash = "26f7198c490914731ef41e6bb599975172fb13025a84185b1bf90ecd2cce3f5d"
 metafile = true
 
 [[files]]
@@ -2638,6 +2748,21 @@ metafile = true
 [[files]]
 file = "mods/wall-jump-txf.pw.toml"
 hash = "65ef0f18435b28baf9ba2227cf0d0805acba636c51d11967eb1a937e3b5076c2"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "469f0f969b971d3a7165fd64d6bf06aa689512f39a308c7c8f10b12cb8fe9338"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "eda09800360552b00dc6e9b2e096e9143a191fdaa7e511b92b33c25ce81c7dab"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "0847d347ca51783868e014c31886b5a4f515f1cb95438f4087911d30fcc4a0a7"
 metafile = true
 
 [[files]]

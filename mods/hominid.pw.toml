@@ -1,0 +1,13 @@
+name = "Hominid"
+filename = "hominid-1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5c80ccbeb93238fb36f4c1f2ff024224a9e8fbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8176542
+project-id = 1221597
