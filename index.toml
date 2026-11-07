@@ -1366,11 +1366,6 @@ hash = "60e9e411aa56b6e6a0522c2436c8734826fc73ed6c16154842dacf1b948253c6"
 metafile = true
 
 [[files]]
-file = "mods/immersive-lanterns.pw.toml"
-hash = "932c985b60d1ad9defb6544fb5aa7b3490be7b6497dc7537b640d2ee060275fa"
-metafile = true
-
-[[files]]
 file = "mods/immersive-messages-api.pw.toml"
 hash = "40725e027f7cb0a7b444c25de8efde79a39888b155cd05cc1c0a94ed10b4ffe5"
 metafile = true
