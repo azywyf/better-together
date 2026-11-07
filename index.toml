@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "28c32eb5b2cae73a574951501df136a90e3d43fd664b279d9659e68479b74b18"
+hash = "895cc3994140c8a99292db86367894fd5539c2b313da51ddb9f6448b117daa99"
 metafile = true
 
 [[files]]
@@ -2757,12 +2757,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-binaries.pw.toml"
-hash = "eda09800360552b00dc6e9b2e096e9143a191fdaa7e511b92b33c25ce81c7dab"
+hash = "a5f14ae7a139e00388c234d4590bb5d9f527a5424e2aeee5b06c7c34283b5ff5"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "0847d347ca51783868e014c31886b5a4f515f1cb95438f4087911d30fcc4a0a7"
+hash = "da8d2961cd4074dd2a18a9f584946a7ed4c4611ebc4b674fad07c68f3ab969df"
 metafile = true
 
 [[files]]
