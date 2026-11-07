@@ -781,11 +781,6 @@ hash = "8a96e3542421a4e5aa4d02f5e778e4e700c381a5ea9ac8ca7a676cd77409e4c7"
 metafile = true
 
 [[files]]
-file = "mods/create-vibrant-vaults.pw.toml"
-hash = "edfc5cfd0224c45873c197c9352eadbe17171f737784581fe32ab963f59f27a3"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
@@ -943,11 +938,6 @@ metafile = true
 [[files]]
 file = "mods/dyed-flames.pw.toml"
 hash = "934815ee8a4c3935f7992f32c68afc3c93952eebf9e48858e1957eb980031a87"
-metafile = true
-
-[[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
-hash = "bed3b7f90ce6408f4e099bd9a90a856a7809f80b77c38ab3062e43d1e199a34b"
 metafile = true
 
 [[files]]
@@ -2618,11 +2608,6 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "2ed8143d74813a492685aa18210835862a6bd70789e6a0301ceb270174b51460"
-metafile = true
-
-[[files]]
-file = "mods/vanillin.pw.toml"
-hash = "978e2092174bba920c4b80db81ddb08578cdaace57d650b11b19e94de0295a5c"
 metafile = true
 
 [[files]]
