@@ -336,6 +336,11 @@ hash = "a4d044d8f7579c13f6f432ab5829c4be70a8626ed3fc3a02d14b1fbc20479da5"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "f53d98dc09fb5abb52798e5dfd25297d85a290e1e4874d8208b981654799121e"
+metafile = true
+
+[[files]]
 file = "mods/biome-music.pw.toml"
 hash = "1d00ffec9ee731a73823d6b742308b1a3a7bc54a436b90e0b8bb2407daaabc3c"
 metafile = true
