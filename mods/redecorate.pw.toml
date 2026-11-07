@@ -1,0 +1,13 @@
+name = "Redecorate - Vanilla Furniture"
+filename = "redecorate-1.1.0_neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a02b900ca76424e78ab9b79f5ec7dce27d7e188e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8189636
+project-id = 1418526

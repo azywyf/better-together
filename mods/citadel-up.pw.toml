@@ -1,0 +1,13 @@
+name = "Citadel Up"
+filename = "citadel-up-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae804e2195e3a74c8bbb0e06c6d9cce0087a9b6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8870429
+project-id = 1539190

@@ -1,0 +1,13 @@
+name = "Integrated Simply Swords"
+filename = "integrated_simply_swords-1.4.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4b09f790774ebe230516105826e6324ad5a0f98"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8166735
+project-id = 1176760

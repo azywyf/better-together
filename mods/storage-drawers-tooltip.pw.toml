@@ -1,0 +1,13 @@
+name = "Storage Drawers Tooltip"
+filename = "storage_drawers_tooltip-0.1.0+neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb64fc634d4db2709f874523771b8a8ed692480d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8725427
+project-id = 1666779
