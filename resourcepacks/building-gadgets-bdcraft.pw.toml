@@ -1,0 +1,13 @@
+name = "Building Gadgets BDCraft"
+filename = "[32x] Building Gadgets BDCraft - 1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "336856f781119730c56d5ccf830b88a38973cbca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7343288
+project-id = 1406358

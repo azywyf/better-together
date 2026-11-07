@@ -1,0 +1,13 @@
+name = "Reliquified Ars Nouveau"
+filename = "reliquified_ars_nouveau-1.21.1-0.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9587f72152f7dd59c3ca20420e0f2262e51c98c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9240198
+project-id = 1196449

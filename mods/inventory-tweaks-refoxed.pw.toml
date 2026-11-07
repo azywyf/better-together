@@ -1,0 +1,13 @@
+name = "Inventory Tweaks - ReFoxed"
+filename = "invtweaks-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26104f9735ead0d4defd09aa26110eca852d1610"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9488021
+project-id = 976858

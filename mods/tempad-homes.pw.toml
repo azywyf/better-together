@@ -1,0 +1,13 @@
+name = "Tempad Homes"
+filename = "tempadhomes-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3266f1f4a42e0ed240a7bdc1c934a294a537f171"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8039860
+project-id = 1533949

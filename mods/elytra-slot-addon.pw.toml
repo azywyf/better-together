@@ -1,0 +1,13 @@
+name = "Elytra Slot Addon"
+filename = "elytraslot-forge-1.21.1-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ee2a1648ee92dbe9bf30cf85b091f944908f05d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8847641
+project-id = 1689245
