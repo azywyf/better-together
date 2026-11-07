@@ -976,11 +976,6 @@ hash = "e2271f01117b2e3469832199b0830aacd678be821b4a4121fadd1805e0256195"
 metafile = true
 
 [[files]]
-file = "mods/elytra-slot-addon.pw.toml"
-hash = "86a05cfefc87c0cd1234adc26e4ab82be4a063294ee59dfeaefe3db077a78003"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "65b3488ff2104f458ab5fa16a7a274157f5d012d7013a9c24437ae9ca6c11d55"
 metafile = true
@@ -2738,11 +2733,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api-neoforge.pw.toml"
 hash = "7cb2156566e58df780f1e1248bc7c336fda5be86d8e5828e3485b951e3934471"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "212a16441b218137cd27f9c7f8e5ad7de4d62aa761955bb4d08c7bddaf1e41d4"
 metafile = true
 
 [[files]]
