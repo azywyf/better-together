@@ -141,6 +141,11 @@ hash = "9e414657b3a5e60c99e241c58c33cd1e6444780d29aa64c5f897ce1aaf24a00d"
 metafile = true
 
 [[files]]
+file = "mods/almostunified.pw.toml"
+hash = "3e902846339c2bb422d614993ba499fef007f185c9c29cb55804e3270ebb5ef7"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
@@ -803,6 +808,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8913bb244d45ff085d444bd9c0ea236ffb3414a608554766140a208ac973a5a6"
+metafile = true
+
+[[files]]
+file = "mods/createaddoncompatibility.pw.toml"
+hash = "867ba7af9bce1848275eb2e8fc619e78b3654a4946a9e906f2273fd8bacc1584"
 metafile = true
 
 [[files]]
