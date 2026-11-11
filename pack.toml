@@ -1,13 +1,13 @@
 name = "Better Together"
 author = "Yi Fan Wu"
-version = "0.1.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "41052756fa82d10149d5cbcb2586e9731a6349c066c27ac0c2e7689a50ab7ed3"
+hash = "ac432c2da3e5510a352f0864191330486a2fdf438bef0571c1e8797b15678b6b"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.265"
+neoforge = "21.1.235"

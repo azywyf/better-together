@@ -3,11 +3,11 @@ filename = "refinedstorage-quartz-arsenal-neoforge-1.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9cef673570c599ef6ab37934285e79f93e8640c4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/gnwGOmBf/versions/toDdIhGu/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar"
+hash-format = "sha512"
+hash = "faa6530135978a86b25301dd5a5ec673d9908edde01780e4f7ba72e3ead18a0c142a578c428fe49df650c8cca03ec69cdf7a97012b5852f3514fddd23052c8d9"
 
 [update]
-[update.curseforge]
-file-id = 8103101
-project-id = 1230483
+[update.modrinth]
+mod-id = "gnwGOmBf"
+version = "toDdIhGu"

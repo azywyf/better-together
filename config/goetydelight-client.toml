@@ -1,0 +1,7 @@
+#Player model scale settings (format: playerName=scale)
+#玩家模型缩放设置（格式：玩家名称=缩放比例）
+#注：请勿在高版本ysm中使用该功能（2.6.2版本可用，2.6.5版本不可用）
+playerModelScales = ["Steve=1.0", "Alex=1.0", "wu1wu2=1.0"]
+#Whether to enable the skeleton red-eye effect (red eye flash when a skeleton targets a low-health player)
+#是否启用骷髅红眼特效（骷髅锁定低血量玩家时触发的红眼闪光特效）
+skeletonRedEyeEffectEnabled = false

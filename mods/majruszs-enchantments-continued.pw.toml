@@ -1,0 +1,13 @@
+name = "Majrusz's Enchantments Continued"
+filename = "majruszs-enchantments-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec611e0474ff8847187146ad44afb53ddfff6210"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9316536
+project-id = 1764434

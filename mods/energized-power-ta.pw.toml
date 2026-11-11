@@ -1,0 +1,13 @@
+name = "Energized Power - The Aether"
+filename = "energizedpowerta-3.0.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3tCbCCSA/versions/bvYMV8ZZ/energizedpowerta-3.0.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "36919f19a4dfeb97f44330f17a06481244105233cd9c09a6499cf6aa766dba57c7e695511a90ecbf66fa0f50c624e3699db3d092826664cc877b50bdc7d12748"
+
+[update]
+[update.modrinth]
+mod-id = "3tCbCCSA"
+version = "bvYMV8ZZ"

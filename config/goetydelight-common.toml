@@ -1,0 +1,3 @@
+#A list of blacklisted items that will be hidden from creative tabs and prevent drops
+#物品黑名单列表，这些物品将从创造模式标签页隐藏并阻止掉落
+blacklistedItems = ["goetydelight:roasted_corpse_maggots", "goetydelight:corpse_maggot", "goetydelight:rotten_corpse_maggot_feast", "goetydelight:rotten_corpse_maggot_feast_block"]

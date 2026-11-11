@@ -1,0 +1,13 @@
+name = "Refined Wireless Upgrades"
+filename = "refinedwirelessupgrades-neoforge-1.21.1-2.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/60kmgb0W/versions/a0eLLuGg/refinedwirelessupgrades-neoforge-1.21.1-2.1.3.jar"
+hash-format = "sha512"
+hash = "46e55e665ba4a3bf60bf82391aef2bf76ad2edb194803cce9ed4abaf4fc2d2cda34b132b4371bd314390feb93fce2f0a4a7edc7c79642b4248d680a86a19c65d"
+
+[update]
+[update.modrinth]
+mod-id = "60kmgb0W"
+version = "a0eLLuGg"

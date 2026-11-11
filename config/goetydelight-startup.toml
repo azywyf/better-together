@@ -1,0 +1,3 @@
+#Whether to enable compatibility with goety_revelation mod
+#是否启用与goety_revelation模组的兼容性
+enableGoetyRevelationCompatibility = false

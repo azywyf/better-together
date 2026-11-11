@@ -1,0 +1,13 @@
+name = "Goety's Delight"
+filename = "goetydelight-1.5.0-1.21.1-20260911_alpha-7(1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QTy3tT6m/versions/RnBqHDpE/goetydelight-1.5.0-1.21.1-20260911_alpha-7%281%29.jar"
+hash-format = "sha512"
+hash = "0beddc3171c99787861d9fa4546590f1b051cdd8f8a21ea25d16616894e1da7425dbf578bee8df3c34ca7bcbae745bd0a2abf3b4a2b22a8771a4f28c8f6b90da"
+
+[update]
+[update.modrinth]
+mod-id = "QTy3tT6m"
+version = "RnBqHDpE"

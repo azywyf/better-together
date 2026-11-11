@@ -1,0 +1,13 @@
+name = "Ender IO: Evolution"
+filename = "enderio_evolution-3.1.5-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hNO5fwqf/versions/nnShL6rj/enderio_evolution-3.1.5-NeoForge-1.21.1.jar"
+hash-format = "sha512"
+hash = "e06fc43d6dce1391710188fbc1ca1f4486fcb4d840d1c6865280acb8a91e7f0634ff350749748aee86d1eccb1c941d24a1014c0af569220320db81495d18aa92"
+
+[update]
+[update.modrinth]
+mod-id = "hNO5fwqf"
+version = "nnShL6rj"

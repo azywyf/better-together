@@ -1,0 +1,13 @@
+name = "Energized Power - Farmer's Delight"
+filename = "energizedpowerfd-3.0.5+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tfNnSImQ/versions/QYG6etki/energizedpowerfd-3.0.5%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "48381d1fb6fee3ec03baf5612e453c0a323570d0ab4cb7bf6410b1f4cb164c4adf92356f18a9016418a9e682bab178613290da183b49d8036174bf1919c3fc63"
+
+[update]
+[update.modrinth]
+mod-id = "tfNnSImQ"
+version = "QYG6etki"

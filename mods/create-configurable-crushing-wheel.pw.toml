@@ -1,0 +1,13 @@
+name = "Create: Configurable Machine Outputs"
+filename = "crushingwheelrecipeselector-1.1.0-create-6.0.x-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pd8eLyMu/versions/anOnFziw/crushingwheelrecipeselector-1.1.0-create-6.0.x-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "47c8c6b016f22eb8842d6225a6479332fb10ea8a6d51c8dec12723926ce58c6e0d75490c6bfee8ecf3b2ee1607857547914d9b4da87deb2693207f28dbe92e97"
+
+[update]
+[update.modrinth]
+mod-id = "pd8eLyMu"
+version = "anOnFziw"

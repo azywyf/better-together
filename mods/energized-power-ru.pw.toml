@@ -1,0 +1,13 @@
+name = "Energized Power - Regions Unexplored"
+filename = "energizedpowerru-3.0.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2x078t9D/versions/gyuDhjFJ/energizedpowerru-3.0.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "53aaebe02a3c5697481830fe153e0eab6b99ee9659f890d42ee42912ed36addbdac5ebda5ce32d143d57230d76696aed2d06d714aef85a51de4b493ef550034a"
+
+[update]
+[update.modrinth]
+mod-id = "2x078t9D"
+version = "gyuDhjFJ"

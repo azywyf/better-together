@@ -1,0 +1,13 @@
+name = "Macaw's Abnormals"
+filename = "mcwabnormals-neoforge-1.21.1-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jZrq3qzM/versions/qWPunfMh/mcwabnormals-neoforge-1.21.1-1.6.jar"
+hash-format = "sha512"
+hash = "7a101d6a42f966e103bc2027598b20f7b33a2a432ba0679fa6219fbdacef6a87d857e9ec3c424dbf48ba8938c88159d4f273f5e4daf26f80bf55cc5cca746eca"
+
+[update]
+[update.modrinth]
+mod-id = "jZrq3qzM"
+version = "qWPunfMh"

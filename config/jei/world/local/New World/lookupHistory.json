@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"reliquary:handgun"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"reliquary:grip_assembly"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritech:enderic_lens"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritech:laser_arm_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritech:portable_laser"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:legionnaire_flamberge"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
