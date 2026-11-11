@@ -45,10 +45,6 @@ file = "config/InventoryHUD/trinkets.json"
 hash = "a12c50861941bfb8a44dc550c43e82dac71f3962a79e2f6c675756c9efaef8f6"
 
 [[files]]
-file = "config/LunaPixelStudios"
-hash = "a672c3b7c4cebcf67250197d20679885e0beb0b5b9ffad170e684fda9ee58f3c"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
@@ -5404,11 +5400,6 @@ hash = "5c0fb5558f40b2eadcda6d7035961f48fa4c7ff24b0b440e59ba505edff97930"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "b519c68623e83afb4ada0ceed378670faa99409f7ab2d1de04baeaa597dc517a"
-metafile = true
-
-[[files]]
 file = "mods/create-alloyed.pw.toml"
 hash = "1f756ed3d16ee7011c2b4491840c794b06b0be20888239bd128b519d7a687f63"
 metafile = true
@@ -5981,11 +5972,6 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "9f5e29573d64c3e33e372a2d2140335bcb1d84c3afcfc0933cad258acbd4178e"
-metafile = true
-
-[[files]]
-file = "mods/extra-spell-attributes.pw.toml"
-hash = "0364e6130ed401ec3df7707379c064e25132255eaaa1011dbcd31d5ce527f45e"
 metafile = true
 
 [[files]]
@@ -7299,11 +7285,6 @@ hash = "909e61e9dcf8c5d4a414d624f6a7a7bf04d61350c831b9386bb4a196f33aee8e"
 metafile = true
 
 [[files]]
-file = "mods/rrtt217-s-hdr-mod.pw.toml"
-hash = "6462b997f94822f0d4dada3e12ed210f918890fd89be2200d53cd12ce64a73e2"
-metafile = true
-
-[[files]]
 file = "mods/rubinated-nether.pw.toml"
 hash = "1acf6a187d44f229cde95ebc54e124d60708bf92f8721668c4190b7f0ff83ed0"
 metafile = true
@@ -7516,21 +7497,6 @@ metafile = true
 [[files]]
 file = "mods/spawn-mod.pw.toml"
 hash = "756f090d64feba9ed2ce3df16f87337fa9dc0d6a2cbd933e39bd30a03c600a94"
-metafile = true
-
-[[files]]
-file = "mods/spell-engine.pw.toml"
-hash = "98b21e6ce820e2751ba67d9cad57985b7b835b1d8292619396be090ce4416146"
-metafile = true
-
-[[files]]
-file = "mods/spell-power.pw.toml"
-hash = "6bed5c00c8365c2170ce3c9fa11116a07af8dfe7cb588e627cbb6e6073d2276b"
-metafile = true
-
-[[files]]
-file = "mods/spellblade-next.pw.toml"
-hash = "264f2aa10377a2d5c8261ce410da2cb803daaf8a0088a048389dc803c0c0f0ef"
 metafile = true
 
 [[files]]
